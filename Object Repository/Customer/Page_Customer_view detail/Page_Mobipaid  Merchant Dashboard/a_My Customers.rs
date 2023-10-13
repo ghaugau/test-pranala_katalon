@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Customers</name>
+   <tag></tag>
+   <elementGuidId>64651e0f-676d-4891-a0d9-6e84b189d6c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cust_sub > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;redirect_overlay('https://stage.mobipaid.com/merchant/customer')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6db87ce4-78b1-4747-9810-0e12b8969943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>redirect_overlay('https://stage.mobipaid.com/merchant/customer')</value>
+      <webElementGuid>523b8951-570c-4544-938c-f7d2fbfb927d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Customers</value>
+      <webElementGuid>d764cc5e-50d7-4d56-9c3f-6024e1d08e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cust_sub&quot;)/li[1]/a[1]</value>
+      <webElementGuid>5b151edc-e156-4c13-b14c-8f63ce2b7c36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;redirect_overlay('https://stage.mobipaid.com/merchant/customer')&quot;]</value>
+      <webElementGuid>2e0f946b-98e5-465e-a6f7-d55261c3f99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='cust_sub']/li/a</value>
+      <webElementGuid>3fceb087-4ca3-4bdb-9e9d-740766e23c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Customers')]</value>
+      <webElementGuid>531cff39-0b2b-49ba-a603-7fd0d83d90bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment History'])[1]/following::a[2]</value>
+      <webElementGuid>03184991-607a-465c-8551-df367c597094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download CSV Template'])[1]/preceding::a[1]</value>
+      <webElementGuid>1eab4965-124b-4ef6-89b3-961a2595fd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download XLS Template'])[1]/preceding::a[2]</value>
+      <webElementGuid>8dc0fe93-d0f5-4ad5-950d-7a278c5895f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Customers']/parent::*</value>
+      <webElementGuid>35c214de-f4a8-4cc2-ad03-9cd6c7164466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>dc8e208f-5dac-4528-9d5a-417d85bb7bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'My Customers' or . = 'My Customers')]</value>
+      <webElementGuid>344717b8-32db-42f3-ac1c-aa11d0fc4305</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

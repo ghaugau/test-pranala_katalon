@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mrs</name>
+   <tag></tag>
+   <elementGuidId>3190c826-d65b-4815-a3d3-a1ce0cb12aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addCustomers']/div/div/div/div[3]/div[3]/div/div/div/div/label[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e79fddb5-6132-4959-86f9-bcc432231e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm-pad btn-outline-blue</value>
+      <webElementGuid>a06063a8-8212-4abb-9d95-a6130cb45ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                     Mrs.                </value>
+      <webElementGuid>e5c29cf4-74f5-46d5-80d6-47235062d2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addCustomers&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content mp-modalbox&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;main-modal-content&quot;]/div[@class=&quot;customer-field&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;cust-modalForm field-group&quot;]/div[@class=&quot;salutation-selection nw-style&quot;]/label[@class=&quot;btn btn-sm-pad btn-outline-blue&quot;]</value>
+      <webElementGuid>374d85f6-d2a3-447f-a85f-972d1a0e9b80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addCustomers']/div/div/div/div[3]/div[3]/div/div/div/div/label[3]</value>
+      <webElementGuid>52b5515e-c194-44f0-af3b-733f1978611c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mrs.']/parent::*</value>
+      <webElementGuid>d02b8927-44fd-4bae-be4e-7d326e7027ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]</value>
+      <webElementGuid>74b1499b-2fe3-47dc-a447-98216d0039e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                     Mrs.                ' or . = '
+                     Mrs.                ')]</value>
+      <webElementGuid>dac2fe9a-d168-463c-ac2b-9abd6ac37586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

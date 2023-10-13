@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add</name>
+   <tag></tag>
+   <elementGuidId>13ab5623-520e-4b25-86ee-8467a65b557f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-blue.btn-sm-pad.add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a0ccbe8-a3ab-483a-bdc9-0b0d4fe4a397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-blue btn-sm-pad add</value>
+      <webElementGuid>34f8c1d1-aa0f-4820-8599-d01bc57f2b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>638b6a12-5ea1-49bd-aa88-9e11d0937982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>8d567de1-ec95-43f1-a6ab-a6df31cbb57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#addCustomers</value>
+      <webElementGuid>3a0e55a0-138a-453f-a9ae-6a0a959840da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Add            </value>
+      <webElementGuid>e123e883-7f07-4991-bc43-68e36de30563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customersTab&quot;)/div[@class=&quot;top-area-table nw-style&quot;]/ul[@class=&quot;table-menu-area vsm-hid-480&quot;]/li[2]/a[@class=&quot;btn btn-outline-blue btn-sm-pad add&quot;]</value>
+      <webElementGuid>578de9e0-16f5-48d6-8151-6b56a5512660</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@type='button'])[2]</value>
+      <webElementGuid>b4b1dfa3-0425-4320-83a3-870bb61524ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customersTab']/div/ul/li[2]/a</value>
+      <webElementGuid>8a260d93-a0e6-4a55-bebe-bf3eb5f545c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Customers'])[3]/following::a[1]</value>
+      <webElementGuid>07a1e488-0bcd-4192-a812-40ea419f406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Customers'])[2]/following::a[2]</value>
+      <webElementGuid>90f5bd3f-6fba-4f5a-835b-bac975882b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>637719ea-2421-49b0-a952-42551bb70dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'button' and (text() = '
+                  Add            ' or . = '
+                  Add            ')]</value>
+      <webElementGuid>8cd16c64-396d-49e6-85d5-d90ace474754</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
